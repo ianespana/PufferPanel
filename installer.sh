@@ -231,7 +231,7 @@ echo -e "${green}Configuration options complete, beginning installation process$
 echo "-----"
 echo "Cloning PufferPanel to ${installpath}"
 
-git clone https://github.com/PufferPanel/PufferPanel.git ${installpath}
+git clone https://github.com/ianespana/PufferPanel.git ${installpath}
 validateCommand
 
 echo "-----"
